@@ -1,0 +1,682 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wp-events-plugin.com//6.6.3//EN
+TZID:Europe/Paris
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:490@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris;VALUE=DATE:20241221
+DTEND;TZID=Europe/Paris;VALUE=DATE:20241223
+DTSTAMP:20241125T122252Z
+URL:https://vcneuilly92.fr/events/sortie-du-dimanche-2024-12-21
+SUMMARY:Sorties du Weekend
+DESCRIPTION:Chaque week-end\, nous faisons des sorties route et gravel. Les
+  sorties se font principalement dans l'ouest de IdF\, en Chevreuse\, Vexin
+ ... Nous proposons 3 ou 4 distances comprises entre ~60 et ~130km avec des
+  groupes d'allure différente pour tous les niveaux (de 20 à 30 km/h). Le
+ s départs se font de la mairie de Neuilly entre 7h30 et 8h30 pour un reto
+ ur entre 12h30 et 13h00.\n\nNous participons aussi aux randonnées propos
+ ées par les autres clubs voisins\, et organisons une fois par mois le Dod
+ écaudax du VCN (200km). Nous organisons aussi des évènements annuels\, 
+ comme la Randonnée des Pommes de Terre  les Pommes de Terre Salées (200
+ /300/400 de Neuilly à Mers) et les Pommes de Terre Breizhées (BRM 1000km
+  de Neuilly à Vannes et retour).\nIl est possible de faire 3 sorties de d
+ écouverte sans engagement\, il suffit de nous contacter.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2023/0
+ 5/20230422_080332-scaled.jpg
+CATEGORIES:Cyclotourisme,Sortie Club
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:491@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris;VALUE=DATE:20241228
+DTEND;TZID=Europe/Paris;VALUE=DATE:20241230
+DTSTAMP:20241125T122252Z
+URL:https://vcneuilly92.fr/events/sortie-du-dimanche-2024-12-28
+SUMMARY:Sorties du Weekend
+DESCRIPTION:Chaque week-end\, nous faisons des sorties route et gravel. Les
+  sorties se font principalement dans l'ouest de IdF\, en Chevreuse\, Vexin
+ ... Nous proposons 3 ou 4 distances comprises entre ~60 et ~130km avec des
+  groupes d'allure différente pour tous les niveaux (de 20 à 30 km/h). Le
+ s départs se font de la mairie de Neuilly entre 7h30 et 8h30 pour un reto
+ ur entre 12h30 et 13h00.\n\nNous participons aussi aux randonnées propos
+ ées par les autres clubs voisins\, et organisons une fois par mois le Dod
+ écaudax du VCN (200km). Nous organisons aussi des évènements annuels\, 
+ comme la Randonnée des Pommes de Terre  les Pommes de Terre Salées (200
+ /300/400 de Neuilly à Mers) et les Pommes de Terre Breizhées (BRM 1000km
+  de Neuilly à Vannes et retour).\nIl est possible de faire 3 sorties de d
+ écouverte sans engagement\, il suffit de nous contacter.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2023/0
+ 5/20230422_080332-scaled.jpg
+CATEGORIES:Cyclotourisme,Sortie Club
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:671@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250106T190000
+DTEND;TZID=Europe/Paris:20250106T210000
+DTSTAMP:20241217T183412Z
+URL:https://vcneuilly92.fr/events/reunion-du-comite-de-direction-2025-01-0
+ 6
+SUMMARY:Réunion du Comité de Direction
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/Reunion-comite-directeur.jpg
+CATEGORIES:Réunion Comité Directeur
+END:VEVENT
+BEGIN:VEVENT
+UID:651@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250111T070000
+DTEND;TZID=Europe/Paris:20250111T170000
+DTSTAMP:20241213T152031Z
+URL:https://vcneuilly92.fr/events/dodecaudax-du-vcn-s02-2025-01-11
+SUMMARY:Dodécaudax du VCN S02
+DESCRIPTION:Chaque 2ème samedi du mois (sauf changement imposé par le cal
+ endrier)\, le VCN organise le «Dodécaudax du VCN» un parcours de 200 km
+ \, soit en boucle\, soit avec retour en train. Le principe d’un Dodécau
+ dax (= dodéca (12 en grec) + Audax) consiste à réaliser une randonnée 
+ d’au minimum 200 kilomètres chaque mois pendant 12 mois consécutifs. I
+ l est possible de commencer à n’importe quel moment de l’année.\n\nC
+ ´est un évènement gratuit\, et de ce fait il n´y aura pas de ravitaill
+ ement (ni au départ\, ni en route\, ni à l´arrivée)\, mais les parcour
+ s 100% route passent par beaucoup de villages avec de quoi se restaurer. L
+ a trace sera publiée le lundi précèdent à l´évènement.\n\nL’inscr
+ iption est gratuite mais obligatoire\, les participants s’inscrivent pou
+ r rouler en groupe sur une allure choisie. Le nombre de participants est l
+ imité à 100 pour des questions d’organisation et de sécurité\, et il
+  est réservé aux personnes âgées de 18 ans révolus.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 4/V5-DODECAUDAX.png
+CATEGORIES:Cyclotourisme,Dodécaudax
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:646@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250120T190000
+DTEND;TZID=Europe/Paris:20250120T220000
+DTSTAMP:20241126T213346Z
+URL:https://vcneuilly92.fr/events/reunion-club-galette-2
+SUMMARY:Réunion Club & Galette
+DESCRIPTION:Réunion club : 19 h 00 à 20 h 00\nOrdre du Jour : TBC
+ \nGalette : à partir de 20 h 00\n&nbsp\;
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/65987f1486cd59bc9abcaa28.jpeg
+CATEGORIES:Cyclotourisme
+END:VEVENT
+BEGIN:VEVENT
+UID:672@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250203T190000
+DTEND;TZID=Europe/Paris:20250203T210000
+DTSTAMP:20241217T183412Z
+URL:https://vcneuilly92.fr/events/reunion-du-comite-de-direction-2025-02-0
+ 3
+SUMMARY:Réunion du Comité de Direction
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/Reunion-comite-directeur.jpg
+CATEGORIES:Réunion Comité Directeur
+END:VEVENT
+BEGIN:VEVENT
+UID:652@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250208T070000
+DTEND;TZID=Europe/Paris:20250208T170000
+DTSTAMP:20241213T152031Z
+URL:https://vcneuilly92.fr/events/dodecaudax-du-vcn-s02-2025-02-08
+SUMMARY:Dodécaudax du VCN S02
+DESCRIPTION:Chaque 2ème samedi du mois (sauf changement imposé par le cal
+ endrier)\, le VCN organise le «Dodécaudax du VCN» un parcours de 200 km
+ \, soit en boucle\, soit avec retour en train. Le principe d’un Dodécau
+ dax (= dodéca (12 en grec) + Audax) consiste à réaliser une randonnée 
+ d’au minimum 200 kilomètres chaque mois pendant 12 mois consécutifs. I
+ l est possible de commencer à n’importe quel moment de l’année.\n\nC
+ ´est un évènement gratuit\, et de ce fait il n´y aura pas de ravitaill
+ ement (ni au départ\, ni en route\, ni à l´arrivée)\, mais les parcour
+ s 100% route passent par beaucoup de villages avec de quoi se restaurer. L
+ a trace sera publiée le lundi précèdent à l´évènement.\n\nL’inscr
+ iption est gratuite mais obligatoire\, les participants s’inscrivent pou
+ r rouler en groupe sur une allure choisie. Le nombre de participants est l
+ imité à 100 pour des questions d’organisation et de sécurité\, et il
+  est réservé aux personnes âgées de 18 ans révolus.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 4/V5-DODECAUDAX.png
+CATEGORIES:Cyclotourisme,Dodécaudax
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:673@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250303T190000
+DTEND;TZID=Europe/Paris:20250303T210000
+DTSTAMP:20241217T183412Z
+URL:https://vcneuilly92.fr/events/reunion-du-comite-de-direction-2025-03-0
+ 3
+SUMMARY:Réunion du Comité de Direction
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/Reunion-comite-directeur.jpg
+CATEGORIES:Réunion Comité Directeur
+END:VEVENT
+BEGIN:VEVENT
+UID:653@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250308T070000
+DTEND;TZID=Europe/Paris:20250308T170000
+DTSTAMP:20241213T152031Z
+URL:https://vcneuilly92.fr/events/dodecaudax-du-vcn-s02-2025-03-08
+SUMMARY:Dodécaudax du VCN S02
+DESCRIPTION:Chaque 2ème samedi du mois (sauf changement imposé par le cal
+ endrier)\, le VCN organise le «Dodécaudax du VCN» un parcours de 200 km
+ \, soit en boucle\, soit avec retour en train. Le principe d’un Dodécau
+ dax (= dodéca (12 en grec) + Audax) consiste à réaliser une randonnée 
+ d’au minimum 200 kilomètres chaque mois pendant 12 mois consécutifs. I
+ l est possible de commencer à n’importe quel moment de l’année.\n\nC
+ ´est un évènement gratuit\, et de ce fait il n´y aura pas de ravitaill
+ ement (ni au départ\, ni en route\, ni à l´arrivée)\, mais les parcour
+ s 100% route passent par beaucoup de villages avec de quoi se restaurer. L
+ a trace sera publiée le lundi précèdent à l´évènement.\n\nL’inscr
+ iption est gratuite mais obligatoire\, les participants s’inscrivent pou
+ r rouler en groupe sur une allure choisie. Le nombre de participants est l
+ imité à 100 pour des questions d’organisation et de sécurité\, et il
+  est réservé aux personnes âgées de 18 ans révolus.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 4/V5-DODECAUDAX.png
+CATEGORIES:Cyclotourisme,Dodécaudax
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:674@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250407T190000
+DTEND;TZID=Europe/Paris:20250407T210000
+DTSTAMP:20241217T183412Z
+URL:https://vcneuilly92.fr/events/reunion-du-comite-de-direction-2025-04-0
+ 7
+SUMMARY:Réunion du Comité de Direction
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/Reunion-comite-directeur.jpg
+CATEGORIES:Réunion Comité Directeur
+END:VEVENT
+BEGIN:VEVENT
+UID:654@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250412T070000
+DTEND;TZID=Europe/Paris:20250412T170000
+DTSTAMP:20241213T152031Z
+URL:https://vcneuilly92.fr/events/dodecaudax-du-vcn-s02-2025-04-12
+SUMMARY:Dodécaudax du VCN S02
+DESCRIPTION:Chaque 2ème samedi du mois (sauf changement imposé par le cal
+ endrier)\, le VCN organise le «Dodécaudax du VCN» un parcours de 200 km
+ \, soit en boucle\, soit avec retour en train. Le principe d’un Dodécau
+ dax (= dodéca (12 en grec) + Audax) consiste à réaliser une randonnée 
+ d’au minimum 200 kilomètres chaque mois pendant 12 mois consécutifs. I
+ l est possible de commencer à n’importe quel moment de l’année.\n\nC
+ ´est un évènement gratuit\, et de ce fait il n´y aura pas de ravitaill
+ ement (ni au départ\, ni en route\, ni à l´arrivée)\, mais les parcour
+ s 100% route passent par beaucoup de villages avec de quoi se restaurer. L
+ a trace sera publiée le lundi précèdent à l´évènement.\n\nL’inscr
+ iption est gratuite mais obligatoire\, les participants s’inscrivent pou
+ r rouler en groupe sur une allure choisie. Le nombre de participants est l
+ imité à 100 pour des questions d’organisation et de sécurité\, et il
+  est réservé aux personnes âgées de 18 ans révolus.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 4/V5-DODECAUDAX.png
+CATEGORIES:Cyclotourisme,Dodécaudax
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:643@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris;VALUE=DATE:20250419
+DTEND;TZID=Europe/Paris;VALUE=DATE:20250420
+DTSTAMP:20241025T192043Z
+URL:https://vcneuilly92.fr/events/la-fleche-brabanconne-cyclo
+SUMMARY:La Flèche Brabançonne Cyclo
+DESCRIPTION:Site Officiel
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/1
+ 0/fleche-brabanconne-2023-profil-1024x619-1.webp
+CATEGORIES:Cyclotourisme
+END:VEVENT
+BEGIN:VEVENT
+UID:675@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250505T190000
+DTEND;TZID=Europe/Paris:20250505T210000
+DTSTAMP:20241217T183412Z
+URL:https://vcneuilly92.fr/events/reunion-du-comite-de-direction-2025-05-0
+ 5
+SUMMARY:Réunion du Comité de Direction
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/Reunion-comite-directeur.jpg
+CATEGORIES:Réunion Comité Directeur
+END:VEVENT
+BEGIN:VEVENT
+UID:655@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250510T070000
+DTEND;TZID=Europe/Paris:20250510T170000
+DTSTAMP:20241213T152031Z
+URL:https://vcneuilly92.fr/events/dodecaudax-du-vcn-s02-2025-05-10
+SUMMARY:Dodécaudax du VCN S02
+DESCRIPTION:Chaque 2ème samedi du mois (sauf changement imposé par le cal
+ endrier)\, le VCN organise le «Dodécaudax du VCN» un parcours de 200 km
+ \, soit en boucle\, soit avec retour en train. Le principe d’un Dodécau
+ dax (= dodéca (12 en grec) + Audax) consiste à réaliser une randonnée 
+ d’au minimum 200 kilomètres chaque mois pendant 12 mois consécutifs. I
+ l est possible de commencer à n’importe quel moment de l’année.\n\nC
+ ´est un évènement gratuit\, et de ce fait il n´y aura pas de ravitaill
+ ement (ni au départ\, ni en route\, ni à l´arrivée)\, mais les parcour
+ s 100% route passent par beaucoup de villages avec de quoi se restaurer. L
+ a trace sera publiée le lundi précèdent à l´évènement.\n\nL’inscr
+ iption est gratuite mais obligatoire\, les participants s’inscrivent pou
+ r rouler en groupe sur une allure choisie. Le nombre de participants est l
+ imité à 100 pour des questions d’organisation et de sécurité\, et il
+  est réservé aux personnes âgées de 18 ans révolus.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 4/V5-DODECAUDAX.png
+CATEGORIES:Cyclotourisme,Dodécaudax
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:642@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris;VALUE=DATE:20250524
+DTEND;TZID=Europe/Paris;VALUE=DATE:20250525
+DTSTAMP:20241024T073758Z
+URL:https://vcneuilly92.fr/events/les-pommes-de-terre-salees-2025-event
+SUMMARY:Les Pommes de Terre Salées 2025
+DESCRIPTION:Informations : &lt\;a href="https://vcneuilly92.fr/les-pommes-d
+ e-terre-salées-2025"&gt\;Les Pommes de Terre Salées 2025&lt\;/a&gt\;
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/1
+ 0/PDTS2025.png
+CATEGORIES:Cyclotourisme
+LOCATION:Stade Monclar\, Île de la Jatte\, 55 Bd du Parc\, Neuilly-sur-Sei
+ ne\, 92200\, France
+GEO:48.89198;2.262793
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Île de la Jatte\, 55 Bd du
+  Parc\, Neuilly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Stad
+ e Monclar:geo:48.89198,2.262793
+END:VEVENT
+BEGIN:VEVENT
+UID:644@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris;VALUE=DATE:20250524
+DTEND;TZID=Europe/Paris;VALUE=DATE:20250525
+DTSTAMP:20241025T192558Z
+URL:https://vcneuilly92.fr/events/liege-bastogne-liege-challenge-2025
+SUMMARY:Liège-Bastogne-Liège Challenge 2025
+DESCRIPTION:Site officiel
+CATEGORIES:Granfondo,Route
+END:VEVENT
+BEGIN:VEVENT
+UID:663@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris;VALUE=DATE:20250528
+DTEND;TZID=Europe/Paris;VALUE=DATE:20250602
+DTSTAMP:20241215T212116Z
+URL:https://vcneuilly92.fr/events/sejour-en-auvergne
+SUMMARY:Séjour en Auvergne
+DESCRIPTION:
+CATEGORIES:Séjour Club
+LOCATION:Le Moulin des Gardelles - Riom\, Espace Mozac 21 rue Gardelles\, M
+ alauzat\, 63200\, France
+GEO:45.886589;3.068002
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Espace Mozac 21 rue Gardell
+ es\, Malauzat\, 63200\, France;X-APPLE-RADIUS=100;X-TITLE=Le Moulin des Ga
+ rdelles - Riom:geo:45.886589,3.068002
+END:VEVENT
+BEGIN:VEVENT
+UID:676@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250602T190000
+DTEND;TZID=Europe/Paris:20250602T210000
+DTSTAMP:20241217T183412Z
+URL:https://vcneuilly92.fr/events/reunion-du-comite-de-direction-2025-06-0
+ 2
+SUMMARY:Réunion du Comité de Direction
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/Reunion-comite-directeur.jpg
+CATEGORIES:Réunion Comité Directeur
+END:VEVENT
+BEGIN:VEVENT
+UID:656@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250614T070000
+DTEND;TZID=Europe/Paris:20250614T170000
+DTSTAMP:20241213T152031Z
+URL:https://vcneuilly92.fr/events/dodecaudax-du-vcn-s02-2025-06-14
+SUMMARY:Dodécaudax du VCN S02
+DESCRIPTION:Chaque 2ème samedi du mois (sauf changement imposé par le cal
+ endrier)\, le VCN organise le «Dodécaudax du VCN» un parcours de 200 km
+ \, soit en boucle\, soit avec retour en train. Le principe d’un Dodécau
+ dax (= dodéca (12 en grec) + Audax) consiste à réaliser une randonnée 
+ d’au minimum 200 kilomètres chaque mois pendant 12 mois consécutifs. I
+ l est possible de commencer à n’importe quel moment de l’année.\n\nC
+ ´est un évènement gratuit\, et de ce fait il n´y aura pas de ravitaill
+ ement (ni au départ\, ni en route\, ni à l´arrivée)\, mais les parcour
+ s 100% route passent par beaucoup de villages avec de quoi se restaurer. L
+ a trace sera publiée le lundi précèdent à l´évènement.\n\nL’inscr
+ iption est gratuite mais obligatoire\, les participants s’inscrivent pou
+ r rouler en groupe sur une allure choisie. Le nombre de participants est l
+ imité à 100 pour des questions d’organisation et de sécurité\, et il
+  est réservé aux personnes âgées de 18 ans révolus.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 4/V5-DODECAUDAX.png
+CATEGORIES:Cyclotourisme,Dodécaudax
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:677@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250707T190000
+DTEND;TZID=Europe/Paris:20250707T210000
+DTSTAMP:20241217T183412Z
+URL:https://vcneuilly92.fr/events/reunion-du-comite-de-direction-2025-07-0
+ 7
+SUMMARY:Réunion du Comité de Direction
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/Reunion-comite-directeur.jpg
+CATEGORIES:Réunion Comité Directeur
+END:VEVENT
+BEGIN:VEVENT
+UID:640@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250711T210000
+DTEND;TZID=Europe/Paris:20250714T000000
+DTSTAMP:20241024T073708Z
+URL:https://vcneuilly92.fr/events/les-pommes-de-terre-breizhees-2025-event
+SUMMARY:Les Pommes de Terre Breizhées 2025
+DESCRIPTION:Informations : Les Pommes de Terre Breizhées 2025
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/1
+ 0/PDTB2025.png
+CATEGORIES:Cyclotourisme
+END:VEVENT
+BEGIN:VEVENT
+UID:657@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250712T070000
+DTEND;TZID=Europe/Paris:20250712T170000
+DTSTAMP:20241213T152031Z
+URL:https://vcneuilly92.fr/events/dodecaudax-du-vcn-s02-2025-07-12
+SUMMARY:Dodécaudax du VCN S02
+DESCRIPTION:Chaque 2ème samedi du mois (sauf changement imposé par le cal
+ endrier)\, le VCN organise le «Dodécaudax du VCN» un parcours de 200 km
+ \, soit en boucle\, soit avec retour en train. Le principe d’un Dodécau
+ dax (= dodéca (12 en grec) + Audax) consiste à réaliser une randonnée 
+ d’au minimum 200 kilomètres chaque mois pendant 12 mois consécutifs. I
+ l est possible de commencer à n’importe quel moment de l’année.\n\nC
+ ´est un évènement gratuit\, et de ce fait il n´y aura pas de ravitaill
+ ement (ni au départ\, ni en route\, ni à l´arrivée)\, mais les parcour
+ s 100% route passent par beaucoup de villages avec de quoi se restaurer. L
+ a trace sera publiée le lundi précèdent à l´évènement.\n\nL’inscr
+ iption est gratuite mais obligatoire\, les participants s’inscrivent pou
+ r rouler en groupe sur une allure choisie. Le nombre de participants est l
+ imité à 100 pour des questions d’organisation et de sécurité\, et il
+  est réservé aux personnes âgées de 18 ans révolus.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 4/V5-DODECAUDAX.png
+CATEGORIES:Cyclotourisme,Dodécaudax
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:678@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250804T190000
+DTEND;TZID=Europe/Paris:20250804T210000
+DTSTAMP:20241217T183412Z
+URL:https://vcneuilly92.fr/events/reunion-du-comite-de-direction-2025-08-0
+ 4
+SUMMARY:Réunion du Comité de Direction
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/Reunion-comite-directeur.jpg
+CATEGORIES:Réunion Comité Directeur
+END:VEVENT
+BEGIN:VEVENT
+UID:658@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250809T070000
+DTEND;TZID=Europe/Paris:20250809T170000
+DTSTAMP:20241213T152031Z
+URL:https://vcneuilly92.fr/events/dodecaudax-du-vcn-s02-2025-08-09
+SUMMARY:Dodécaudax du VCN S02
+DESCRIPTION:Chaque 2ème samedi du mois (sauf changement imposé par le cal
+ endrier)\, le VCN organise le «Dodécaudax du VCN» un parcours de 200 km
+ \, soit en boucle\, soit avec retour en train. Le principe d’un Dodécau
+ dax (= dodéca (12 en grec) + Audax) consiste à réaliser une randonnée 
+ d’au minimum 200 kilomètres chaque mois pendant 12 mois consécutifs. I
+ l est possible de commencer à n’importe quel moment de l’année.\n\nC
+ ´est un évènement gratuit\, et de ce fait il n´y aura pas de ravitaill
+ ement (ni au départ\, ni en route\, ni à l´arrivée)\, mais les parcour
+ s 100% route passent par beaucoup de villages avec de quoi se restaurer. L
+ a trace sera publiée le lundi précèdent à l´évènement.\n\nL’inscr
+ iption est gratuite mais obligatoire\, les participants s’inscrivent pou
+ r rouler en groupe sur une allure choisie. Le nombre de participants est l
+ imité à 100 pour des questions d’organisation et de sécurité\, et il
+  est réservé aux personnes âgées de 18 ans révolus.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 4/V5-DODECAUDAX.png
+CATEGORIES:Cyclotourisme,Dodécaudax
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:679@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250901T190000
+DTEND;TZID=Europe/Paris:20250901T210000
+DTSTAMP:20241217T183412Z
+URL:https://vcneuilly92.fr/events/reunion-du-comite-de-direction-2025-09-0
+ 1
+SUMMARY:Réunion du Comité de Direction
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/Reunion-comite-directeur.jpg
+CATEGORIES:Réunion Comité Directeur
+END:VEVENT
+BEGIN:VEVENT
+UID:659@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20250913T070000
+DTEND;TZID=Europe/Paris:20250913T170000
+DTSTAMP:20241213T152031Z
+URL:https://vcneuilly92.fr/events/dodecaudax-du-vcn-s02-2025-09-13
+SUMMARY:Dodécaudax du VCN S02
+DESCRIPTION:Chaque 2ème samedi du mois (sauf changement imposé par le cal
+ endrier)\, le VCN organise le «Dodécaudax du VCN» un parcours de 200 km
+ \, soit en boucle\, soit avec retour en train. Le principe d’un Dodécau
+ dax (= dodéca (12 en grec) + Audax) consiste à réaliser une randonnée 
+ d’au minimum 200 kilomètres chaque mois pendant 12 mois consécutifs. I
+ l est possible de commencer à n’importe quel moment de l’année.\n\nC
+ ´est un évènement gratuit\, et de ce fait il n´y aura pas de ravitaill
+ ement (ni au départ\, ni en route\, ni à l´arrivée)\, mais les parcour
+ s 100% route passent par beaucoup de villages avec de quoi se restaurer. L
+ a trace sera publiée le lundi précèdent à l´évènement.\n\nL’inscr
+ iption est gratuite mais obligatoire\, les participants s’inscrivent pou
+ r rouler en groupe sur une allure choisie. Le nombre de participants est l
+ imité à 100 pour des questions d’organisation et de sécurité\, et il
+  est réservé aux personnes âgées de 18 ans révolus.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 4/V5-DODECAUDAX.png
+CATEGORIES:Cyclotourisme,Dodécaudax
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:680@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20251006T190000
+DTEND;TZID=Europe/Paris:20251006T210000
+DTSTAMP:20241217T183412Z
+URL:https://vcneuilly92.fr/events/reunion-du-comite-de-direction-2025-10-0
+ 6
+SUMMARY:Réunion du Comité de Direction
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/Reunion-comite-directeur.jpg
+CATEGORIES:Réunion Comité Directeur
+END:VEVENT
+BEGIN:VEVENT
+UID:660@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20251011T070000
+DTEND;TZID=Europe/Paris:20251011T170000
+DTSTAMP:20241213T152031Z
+URL:https://vcneuilly92.fr/events/dodecaudax-du-vcn-s02-2025-10-11
+SUMMARY:Dodécaudax du VCN S02
+DESCRIPTION:Chaque 2ème samedi du mois (sauf changement imposé par le cal
+ endrier)\, le VCN organise le «Dodécaudax du VCN» un parcours de 200 km
+ \, soit en boucle\, soit avec retour en train. Le principe d’un Dodécau
+ dax (= dodéca (12 en grec) + Audax) consiste à réaliser une randonnée 
+ d’au minimum 200 kilomètres chaque mois pendant 12 mois consécutifs. I
+ l est possible de commencer à n’importe quel moment de l’année.\n\nC
+ ´est un évènement gratuit\, et de ce fait il n´y aura pas de ravitaill
+ ement (ni au départ\, ni en route\, ni à l´arrivée)\, mais les parcour
+ s 100% route passent par beaucoup de villages avec de quoi se restaurer. L
+ a trace sera publiée le lundi précèdent à l´évènement.\n\nL’inscr
+ iption est gratuite mais obligatoire\, les participants s’inscrivent pou
+ r rouler en groupe sur une allure choisie. Le nombre de participants est l
+ imité à 100 pour des questions d’organisation et de sécurité\, et il
+  est réservé aux personnes âgées de 18 ans révolus.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 4/V5-DODECAUDAX.png
+CATEGORIES:Cyclotourisme,Dodécaudax
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:681@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20251103T190000
+DTEND;TZID=Europe/Paris:20251103T210000
+DTSTAMP:20241217T183412Z
+URL:https://vcneuilly92.fr/events/reunion-du-comite-de-direction-2025-11-0
+ 3
+SUMMARY:Réunion du Comité de Direction
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/Reunion-comite-directeur.jpg
+CATEGORIES:Réunion Comité Directeur
+END:VEVENT
+BEGIN:VEVENT
+UID:661@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20251108T070000
+DTEND;TZID=Europe/Paris:20251108T170000
+DTSTAMP:20241213T152031Z
+URL:https://vcneuilly92.fr/events/dodecaudax-du-vcn-s02-2025-11-08
+SUMMARY:Dodécaudax du VCN S02
+DESCRIPTION:Chaque 2ème samedi du mois (sauf changement imposé par le cal
+ endrier)\, le VCN organise le «Dodécaudax du VCN» un parcours de 200 km
+ \, soit en boucle\, soit avec retour en train. Le principe d’un Dodécau
+ dax (= dodéca (12 en grec) + Audax) consiste à réaliser une randonnée 
+ d’au minimum 200 kilomètres chaque mois pendant 12 mois consécutifs. I
+ l est possible de commencer à n’importe quel moment de l’année.\n\nC
+ ´est un évènement gratuit\, et de ce fait il n´y aura pas de ravitaill
+ ement (ni au départ\, ni en route\, ni à l´arrivée)\, mais les parcour
+ s 100% route passent par beaucoup de villages avec de quoi se restaurer. L
+ a trace sera publiée le lundi précèdent à l´évènement.\n\nL’inscr
+ iption est gratuite mais obligatoire\, les participants s’inscrivent pou
+ r rouler en groupe sur une allure choisie. Le nombre de participants est l
+ imité à 100 pour des questions d’organisation et de sécurité\, et il
+  est réservé aux personnes âgées de 18 ans révolus.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 4/V5-DODECAUDAX.png
+CATEGORIES:Cyclotourisme,Dodécaudax
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VEVENT
+UID:682@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20251201T190000
+DTEND;TZID=Europe/Paris:20251201T210000
+DTSTAMP:20241217T183412Z
+URL:https://vcneuilly92.fr/events/reunion-du-comite-de-direction-2025-12-0
+ 1
+SUMMARY:Réunion du Comité de Direction
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 1/Reunion-comite-directeur.jpg
+CATEGORIES:Réunion Comité Directeur
+END:VEVENT
+BEGIN:VEVENT
+UID:662@vcneuilly92.fr
+DTSTART;TZID=Europe/Paris:20251213T070000
+DTEND;TZID=Europe/Paris:20251213T170000
+DTSTAMP:20241213T152031Z
+URL:https://vcneuilly92.fr/events/dodecaudax-du-vcn-s02-2025-12-13
+SUMMARY:Dodécaudax du VCN S02
+DESCRIPTION:Chaque 2ème samedi du mois (sauf changement imposé par le cal
+ endrier)\, le VCN organise le «Dodécaudax du VCN» un parcours de 200 km
+ \, soit en boucle\, soit avec retour en train. Le principe d’un Dodécau
+ dax (= dodéca (12 en grec) + Audax) consiste à réaliser une randonnée 
+ d’au minimum 200 kilomètres chaque mois pendant 12 mois consécutifs. I
+ l est possible de commencer à n’importe quel moment de l’année.\n\nC
+ ´est un évènement gratuit\, et de ce fait il n´y aura pas de ravitaill
+ ement (ni au départ\, ni en route\, ni à l´arrivée)\, mais les parcour
+ s 100% route passent par beaucoup de villages avec de quoi se restaurer. L
+ a trace sera publiée le lundi précèdent à l´évènement.\n\nL’inscr
+ iption est gratuite mais obligatoire\, les participants s’inscrivent pou
+ r rouler en groupe sur une allure choisie. Le nombre de participants est l
+ imité à 100 pour des questions d’organisation et de sécurité\, et il
+  est réservé aux personnes âgées de 18 ans révolus.
+ATTACH;FMTTYPE=image/jpeg:https://vcneuilly92.fr/wp-content/uploads/2024/0
+ 4/V5-DODECAUDAX.png
+CATEGORIES:Cyclotourisme,Dodécaudax
+LOCATION:Mairie\, 96\, avenue du Roule\, Neuilly-sur-Seine\, 92200\, France
+GEO:48.884605;2.26904049999996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=96\, avenue du Roule\, Neui
+ lly-sur-Seine\, 92200\, France;X-APPLE-RADIUS=100;X-TITLE=Mairie:geo:48.88
+ 4605,2.26904049999996
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20241027T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20250330T030000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20251026T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR
